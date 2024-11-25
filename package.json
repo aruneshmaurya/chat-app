@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "openssl": "^2.0.0"
+  }
 }
